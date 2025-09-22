@@ -236,7 +236,7 @@ pub fn group_create(
         .accounts(marginfi::accounts::MarginfiGroupInitialize {
             marginfi_group: marginfi_group_keypair.pubkey(),
             admin,
-            fee_state: find_fee_state_pda(&marginfi::id()).0,
+            fee_state: find_fee_state_pda(&config.program_id).0,
             system_program: system_program::id(),
         })
         .args(marginfi::instruction::MarginfiGroupInitialize { is_arena_group })
