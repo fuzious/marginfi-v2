@@ -1,7 +1,3 @@
-[1 tool called]
-
-Here’s a concise, copy-paste friendly guide you can share.
-
 ### What’s already deployed (devnet)
 - Program ID: 98U5Pv3wKPQ4hYYoL4tFoY3EEjUojHkG34emgv3ucTHZ
 - Group: 8J5KHaXN6doGvWEqXw7ujNHnUiq771ycDzRGZESb1eWW
